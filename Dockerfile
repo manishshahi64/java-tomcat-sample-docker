@@ -1,4 +1,4 @@
-From tomcat:9.0.45
+From tomcat 9.0.45
 
 ADD **/*.war /myJenkinsTomCat/tomcat/webapps
 

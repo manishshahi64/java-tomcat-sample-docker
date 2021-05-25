@@ -4,4 +4,4 @@ ADD **/*.war /myJenkinsTomCat/tomcat/webapps
 
 EXPOSE 8081
 
-CMD ["catalina.sh", "run"]
+CMD ["catalina.bat", "run"]
